@@ -1,6 +1,6 @@
 [package]
 name = "MAC-rust-shell"
-version = "0.1.0"
+version = "20.8.17"
 authors = ["Michael Cooper <mc454916@ohio.edu>"]
 edition = "2018"
 
